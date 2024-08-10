@@ -1,7 +1,7 @@
 from datetime import datetime
 
 #specify the date format
-data_format = "%d-%m-%Y"
+date_format = "%d-%m-%Y"
 CATEGORY_OPTIONS = {"I": "Income", "E": "Expense"}
 
 #get the date from the user
